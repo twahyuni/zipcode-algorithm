@@ -1,2 +1,2 @@
-zip_code = [*('A0A1A0'..'B3P1D3')].combination(1)
+zip_code = [*('A0A1A0'..'B3P1D3')]
 
